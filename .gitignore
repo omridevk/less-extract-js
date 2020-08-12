@@ -1,0 +1,7 @@
+# ignore the node directory
+/node_modules
+#ignore IDE junk
+/.idea
+/.vscode
+.DS_Store
+yarn-error.log
